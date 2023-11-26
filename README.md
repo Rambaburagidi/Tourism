@@ -6,4 +6,4 @@ CSS3 properties such as background, flex, and CSS box model properties.
 ● Implemented multiple images of a particular destination in a carousel using bootstrap carousel and
 virtual tour videos using bootstrap embed component.
 Technologies used: HTML, CSS, Bootstrap
-[rambabu077.ccbp.tech.url]
+[(rambabu077.ccbp.tech)url] This is the Project url
