@@ -1,4 +1,4 @@
-# Tourism [(rambabu077.ccbp.tech)url]
+# Tourism 
 Developed tourism website where users can browse through the content, videos and images of popular
 destinations.
 ● Implemented mobile friendly layout using different HTML block, inline elements, and Styled using
